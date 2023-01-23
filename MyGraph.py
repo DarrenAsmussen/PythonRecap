@@ -1,3 +1,4 @@
+##virtual environments are used to download different 3rd party libraries without tampering with you root python
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -9,3 +10,5 @@ plt.show()
 print("Hello there again!")
 
 print("Hi!")
+
+print("Hello World!")
